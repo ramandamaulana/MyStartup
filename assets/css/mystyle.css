@@ -28,11 +28,11 @@ body {
 }
 
 header {
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 header h4 {
-  margin-top: 60px;
+  margin-top: 70px;
   color: #02073E;
   font-style: normal;
   font-weight: bold;
@@ -48,7 +48,46 @@ header p {
 }
 
 header img {
-  margin-top: 40px;
-  width: 500px;
+  margin-top: 30px;
+  margin-left: 40px;
+  width: 530px;
+  height: 500px !important;
+}
+
+.information {
+  margin-top: 140px;
+}
+
+.information h3 {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  color: #0F2137;
+}
+
+.information p {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #0F2137;
+}
+
+.card {
+  margin-top: 50px;
+  border: none !important;
+}
+
+.card .card-title {
+  margin-top: 21px;
+  margin-bottom: 20.5px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: #0F2137;
+}
+
+.card p {
+  font-size: 15px;
 }
 /*# sourceMappingURL=mystyle.css.map */
