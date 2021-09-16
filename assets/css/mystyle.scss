@@ -1,0 +1,51 @@
+body{
+    font-family: "DM Sans";
+}
+
+.navbar-brand{
+font-style: 'normal';
+color: #0F2137  !important;
+font-weight: bold !important;
+font-size: 20px !important;
+}
+
+.btn-readmore{
+width: 178px;
+height: 58px;
+background: #FFFFFF;
+color:#B8B8B8;
+border-radius: 6px;
+font-size: 20px;
+}
+
+.btn-getstarted{
+width: 178px;
+height: 58px;
+background: #858BF3;
+border-radius: 6px;
+font-size: 20px;
+color: #FFFFFF;
+}
+header{ 
+    margin-top: 50px;
+    h4{
+        margin-top: 60px;
+        color: #02073E;
+        font-style: normal ;
+        font-weight: bold;
+        font-size: 60px;
+    }
+
+    p{
+margin-top: 20px;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+color: #02073E;
+    }
+    img{
+        margin-top: 40px;
+        width: 500px;
+    }
+}
+
