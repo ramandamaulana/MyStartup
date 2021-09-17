@@ -9,6 +9,15 @@ body {
   font-size: 20px !important;
 }
 
+.btn-seemore {
+  width: 178px;
+  height: 58px;
+  background: #FFFFFF;
+  color: #8D448B;
+  border-radius: 6px;
+  font-size: 20px;
+}
+
 .btn-readmore {
   width: 178px;
   height: 58px;
@@ -121,16 +130,68 @@ header img {
   font-weight: bold;
   font-size: 18px;
   color: #0F2137;
+  margin-left: -230px;
 }
 
 .services .img-service p {
   font-style: normal;
   font-weight: normal;
+  margin-left: -230px;
   font-size: 15px;
 }
 
 .services .img-service img {
   width: 40px;
   height: 40px;
+}
+
+.gallery {
+  margin-top: 100px;
+}
+
+.gallery h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  color: #0F2137;
+  text-transform: capitalize;
+  margin-bottom: 50px !important;
+}
+
+.gallery h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: #858BF3;
+  text-transform: uppercase;
+}
+
+.gallery img {
+  width: 350px;
+}
+
+.customer {
+  margin-top: 200px !important;
+}
+
+.customer img {
+  margin-right: 20px !important;
+}
+
+.customer .customer-services h3 {
+  text-transform: uppercase;
+  color: #858BF3;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.customer .customer-services h1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  color: #0F2137;
+  margin-bottom: 10px;
 }
 /*# sourceMappingURL=mystyle.css.map */
